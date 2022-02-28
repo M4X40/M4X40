@@ -1,4 +1,4 @@
-### Hi there 👋 I'm **Max**
+### Hi there 👋 `I'm **Max**`
 
 I specialize in Python and Web Development, but do some Gorilla Tag mods on the side. I am a student currently.
 
