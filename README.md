@@ -8,7 +8,7 @@ Software I use:
 - Unity Hub
 - Unity 2019.3.15
 
-Need to contact me? <i>creep...<i> My discord is M4X4#0584
+Need to contact me? _creep..._ My discord is M4X4#0584
 <!--
 **M4X40/M4X40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
