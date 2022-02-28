@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Max
 
+I specialize in Python and Web Development. I am a student currently.
+
+Software I use:
+- Visual Studio Code
+- Python 3.10.2
+
+Need to contact me? <i>creep...<i> My discord is M4X4#0584
 <!--
 **M4X40/M4X40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
