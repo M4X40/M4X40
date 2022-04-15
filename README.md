@@ -4,7 +4,7 @@ I specialize in Python and Web Development, but do some Gorilla Tag mods on the 
 
 Software I use:
 - Visual Studio Code
-- Python 3.10.2
+- Python 3.10.4
 - Unity Hub
 - Unity 2019.3.15
 
