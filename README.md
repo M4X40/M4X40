@@ -7,4 +7,4 @@ Software I use:
 - Replit
 - Python 3.10.4
 
-Need to contact me? _creep..._ My discord is M4X4#0875
+Need to contact me? _creep..._ My discord server is https://discord.gg/rtbM5fmnnB
