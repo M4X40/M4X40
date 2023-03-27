@@ -1,8 +1,8 @@
 ### `Hi there 👋 I'm Max`
 
-I specialize in Python and Blender Development, but I am currently learning Node.JS.
+Python / BPY enthusiast with a small amount of experience in Java and JS.
 
 Software I use:
-- Visual Studio Code
+- VSC
 - Blender 3.4.1
-- Python 3.11.0
+- Python 3.11.2
